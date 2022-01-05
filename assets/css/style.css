@@ -34,3 +34,42 @@
     font-size: 20px;
     padding-top: 25px;
 }
+
+
+/* SecondHeader Section */
+.second-header{
+    background-color: #efefef;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+}
+.image-left img{
+    width: 100%;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.content-div{
+    width: 50%;
+}
+.image-div {
+    padding: 0px;
+    margin: 0px;
+}
+
+.content-div h1 {
+    font-size: 35px;
+}
+
+.content-div p {
+    font-size: 18px;
+    padding: 10px 0 22px 0;
+}
+
+.content-div a {
+    text-decoration: none;
+    background-image: linear-gradient(95deg, black, #666);
+    padding: 4px 14px;
+    color: #fff;
+    border-radius: 2px;
+}
+
